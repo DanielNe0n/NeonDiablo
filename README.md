@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
 - :ukraine:  I'm born in Ukraine
-- 👀 I'm interested in Django/Python, backend in short
+- 👀 I'm interested in Django/Python, BackEnd in short
 - 🌱 I’m currently learning Django
 - 📫 If you have any suggestions, or just want to ask something - neondiablo132@gmail.com
 
