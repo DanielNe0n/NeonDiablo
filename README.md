@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel
 - :ukraine:  I'm born in Ukraine
-- 👀 I'm interested in Django/REST/Python, BackEnd in short
-- 🌱 I’m currently learning Django
+- 👀 I'm interested in DevOps(Bash, Docker, Python, git, network)
+- 🌱 I’m currently learning K8s
 - 📫 If you have any suggestions, or just want to ask something - neondiablo132@gmail.com
